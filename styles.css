@@ -4,6 +4,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     background-image: url(name.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 header {
     background-color: none;
